@@ -8,7 +8,7 @@ The goal of this assignment is to familiarize yourself with the infrastructure a
 
 The following screencast video will guide you through this assignment
 
-Tutorial: Working on the Programming Assignments
+[Tutorial: Working on the Programming Assignments](https://www.youtube.com/watch?v=ZXdaInxAMW8&list=PLi_wLqvICdX_3yT1cEbcWuDSx70fAHmaJ&index=5)
 
 ## Installing Required Tools
 
